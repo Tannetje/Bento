@@ -36,8 +36,8 @@
 .darktheme {
   /* Dark Colors  */
   --accent: #406349; /* Hover color */
-  --background: #494d4a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --background: #151515; /* Background color */
+  --cards: #2a2a2a; /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
